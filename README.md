@@ -1,3 +1,4 @@
 # hello-world
-testing first comming in GitHub
+testing first commit in GitHub
+
 my first repository in GitHub
