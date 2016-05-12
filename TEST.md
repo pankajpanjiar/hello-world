@@ -1,0 +1,1 @@
+##Learning GIT and GITHUBBasic GIT commands- pwd: Print Working Directory- clear: Clear command line interface- ls: List folders and files in current directory
